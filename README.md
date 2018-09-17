@@ -1,4 +1,4 @@
-# RTR105  
+# RTR105 :squirrel:  
 Datormācības kursa elektroniskā klāde  
 **Ctrl+Alt+T** - atvert konsoli  
 **Ctrl+Shift+T** - new tab  
