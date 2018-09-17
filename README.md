@@ -17,3 +17,22 @@ Datormācības kursa elektroniskā klāde
 **history** - darbību vēsture  
 **history > (file_name.txt)** - saglabāt failu  
 **firefox&** - browser  
+**mkdir** - make folder  
+**rmfir** - delete folder  
+**cat** - atvērt failu  
+**echo "Teksts" >** - izmainīt faila saturu  
+**echo "Teksts">>** - papildināt failu  
+**chmod** - mainīt tiesības (ar decimāliem skaitliem)  
+**nano** - teksta redaktors  
+**cp** - kopēt  
+**mv** - pārvietot  
+  - mv 1.txt 2.txt - mainīt nosaukumu  
+  - mv 1.txt ./ - pārnest šeit  
+  - rm 1.txt - dzest  
+**Dažādas rindas**  
+  - echo -e "rip\nn\ndip"  
+  rip  
+  n  
+  dip  
+  **man echo** - formatēšanas simboli  
+  **man rm** - remove files or directory  
