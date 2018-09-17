@@ -29,10 +29,12 @@ Datormācības kursa elektroniskā klāde
   - mv 1.txt 2.txt - mainīt nosaukumu  
   - mv 1.txt ./ - pārnest šeit  
   - rm 1.txt - dzest  
+  
 **Dažādas rindas**  
   - echo -e "rip\nn\ndip"  
   rip  
   n  
   dip  
+  
   **man echo** - formatēšanas simboli  
   **man rm** - remove files or directory  
