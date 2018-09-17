@@ -24,7 +24,7 @@ Datormācības kursa elektroniskā klāde
 **echo "Teksts">>** - papildināt failu  
 **chmod** - mainīt tiesības (ar decimāliem skaitliem)  
 **nano** - teksta redaktors  
-**cp** - kopēt  
+**cp** - kopēt :eyes:  
 **mv** - pārvietot  
   - mv 1.txt 2.txt - mainīt nosaukumu  
   - mv 1.txt ./ - pārnest šeit  
