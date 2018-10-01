@@ -1,0 +1,128 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  history
+    4  nano README.md 
+    5  ls -l
+    6  history > history_20181001a.txt
+    7  ls -l
+    8  firefox&
+    9  whoami
+   10  who
+   11  ls
+   12  pwd
+   13  mkdir Mape
+   14  cd 
+   15  cd Mape
+   16  mkdir Mape
+   17  pwd
+   18  ls
+   19  whereis ls
+   20  nano mans_skripts.sh
+   21  ls -l
+   22  cat mans_skripts.sh
+   23  pwd
+   24  cd
+   25  ls
+   26  cd Mape/
+   27  pwd
+   28  ls
+   29  cd
+   30  cd Mape/
+   31  ./mans_skripts.sh
+   32  ls -l
+   33  ~/mans_skripts.sh
+   34  ~/Mape/mans_skripts.sh
+   35  ls
+   36  /home/user/Mape/mans_skripts.sh
+   37  -l
+   38  ls -l
+   39  chmod 764 mans_skripts.sh 
+   40  ls -l
+   41  mans_skripts.sh
+   42  echo $PATH
+   43  ls -l /bin | grep ls
+   44  pwd
+   45  PATH=$PATH:~
+   46  echo $PATH
+   47  PATG=$PATH:.
+   48  echo $PATH
+   49  mans_skripts.sh
+   50  ls
+   51  cat mans_skripts.sh 
+   52  PATG=$PATH:.
+   53  PATH=$PATH:.
+   54  $PATH
+   55  ls -l
+   56  echo $PATH
+   57  mans_skripts.sh 
+   58  ls -l
+   59  nano mans_skripts.sh 
+   60  pwd
+   61  cd
+   62  pwd
+   63  cd Mape/
+   64  ls -l
+   65  cd
+   66  mv Mape/mans_skripts.sh ./
+   67  pwd
+   68  ls -l
+   69  rm -r Mape/
+   70  ls -l
+   71  git clone https://github.com/ishrrtu/RTR105
+   72  ls -l
+   73  mv mans_skripts.sh RTR105/
+   74  cd RTR105/
+   75  ls -l
+   76  non README.md 
+   77  nano README.md 
+   78  history
+   79  nano README.md 
+   80  ls -l
+   81  history > history_20181001a.txt
+   82  ls -l
+   83  history
+   84  nano git-upload
+   85  ls -l
+   86  chmod 764 git-upload 
+   87  ls -l
+   88  nano git-upload 
+   89  ls -l
+   90  ./git-upload 20181001_11_45
+   91  pwd
+   92  ls -l
+   93  rm -rf RTR105/
+   94  ls -l
+   95  pwd
+   96  git clone https://github.com/ishrrtu/RTR105
+   97  ls -l
+   98  cd RTR105/
+   99  ls -l
+  100  python
+  101  ipython
+  102  idle
+  103  idle &
+  104  ls -l
+  105  a*c
+  106  a*a
+  107  a * a
+  108  ls -l
+  109  whereis python
+  110  nano test_1.py
+  111  ls -l
+  112  nano test_1.py 
+  113  pwd
+  114  ls -l
+  115* 
+  116  nano test_1.py 
+  117  ls -l
+  118  python test_1.py 
+  119  nano test_1.py 
+  120  ./test_1.py
+  121  ls -l
+  122  chmod 764 test_1.py 
+  123  ls -l
+  124  ./test_1.py 
+  125  nano test_1.py 
+  126  idle test_1.py  &
+  127  ls -l
+  128  history > history_20181001b.txt

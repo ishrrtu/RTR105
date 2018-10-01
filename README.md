@@ -44,3 +44,13 @@ Datormācības kursa elektroniskā klāde
 **~/** - /home/user/  
 **#!/bin/bash** - interpritators  
 
+**vars()** - informācija  
+**python**
+**ipython**
+**idle** - interpritators  
+**integer**
+**float**
+**string** - datu formats
+**objekts.__doc__** -> dokumentācijas pieprasīšana  
+**print(objekts.__doc__)** - writeln  
+
