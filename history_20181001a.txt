@@ -1,0 +1,76 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  whoami
+    5  who
+    6  ls
+    7  pwd
+    8  mkdir Mape
+    9  cd 
+   10  cd Mape
+   11  mkdir Mape
+   12  pwd
+   13  ls
+   14  whereis ls
+   15  nano mans_skripts.sh
+   16  ls -l
+   17  cat mans_skripts.sh
+   18  pwd
+   19  cd
+   20  ls
+   21  cd Mape/
+   22  pwd
+   23  ls
+   24  cd
+   25  cd Mape/
+   26  ./mans_skripts.sh
+   27  ls -l
+   28  ~/mans_skripts.sh
+   29  ~/Mape/mans_skripts.sh
+   30  ls
+   31  /home/user/Mape/mans_skripts.sh
+   32  -l
+   33  ls -l
+   34  chmod 764 mans_skripts.sh 
+   35  ls -l
+   36  mans_skripts.sh
+   37  echo $PATH
+   38  ls -l /bin | grep ls
+   39  pwd
+   40  PATH=$PATH:~
+   41  echo $PATH
+   42  PATG=$PATH:.
+   43  echo $PATH
+   44  mans_skripts.sh
+   45  ls
+   46  cat mans_skripts.sh 
+   47  PATG=$PATH:.
+   48  PATH=$PATH:.
+   49  $PATH
+   50  ls -l
+   51  echo $PATH
+   52  mans_skripts.sh 
+   53  ls -l
+   54  nano mans_skripts.sh 
+   55  pwd
+   56  cd
+   57  pwd
+   58  cd Mape/
+   59  ls -l
+   60  cd
+   61  mv Mape/mans_skripts.sh ./
+   62  pwd
+   63  ls -l
+   64  rm -r Mape/
+   65  ls -l
+   66  git clone https://github.com/ishrrtu/RTR105
+   67  ls -l
+   68  mv mans_skripts.sh RTR105/
+   69  cd RTR105/
+   70  ls -l
+   71  non README.md 
+   72  nano README.md 
+   73  history
+   74  nano README.md 
+   75  ls -l
+   76  history > history_20181001a.txt

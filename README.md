@@ -38,3 +38,9 @@ Datormācības kursa elektroniskā klāde
   
   **man echo** - formatēšanas simboli  
   **man rm** - remove files or directory  
+
+**$PATH** - noradīt ceļu  
+**=** - piešķiršanas operācija  
+**~/** - /home/user/  
+**#!/bin/bash** - interpritators  
+
