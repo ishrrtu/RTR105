@@ -1,0 +1,11 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4  ls -l
+    5  git clone https://github.com/ishrrtu/RTR105
+    6  ls -l
+    7  idle&
+    8  ls -l
+    9  cd RTR105/
+   10  ls -l
+   11  history > hirstory_20181105.txt
