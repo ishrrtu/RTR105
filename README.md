@@ -53,4 +53,19 @@ Datormācības kursa elektroniskā klāde
 **string** - datu formats
 **objekts.__doc__** -> dokumentācijas pieprasīšana  
 **print(objekts.__doc__)** - writeln  
+Functions
+**int()** - integer
+**float()** - string
+**def()** - definēt, iedod vērtību
+def thing():
+  print("Hello")
 
+thing() -> hello
+Loops
+**if**
+**elif**
+**else**
+**while**
+**break** - argumenta vērtība,pie kuras cikls while beidzas
+**for i in** - cikls for
+**largest_so_far** - lielākais skaitlis
